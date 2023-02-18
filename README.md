@@ -1,7 +1,6 @@
 - 👋 Hi, I'm @Ronald-0001
 - 🌱 I'm currently working with, 🌱
-- 🌱 lua,html,css,js,c# 🌱
-- 🌱 And a tiny winy bit of c++. 🌱
-- 💞️ I'm looking for love. 💞️
-- 📫 You can't reach me. 📫
+- 🌱 c++,c#,lua,html,js,css. 🌱
+- 💞️ I Like Read Dead Redemption. 💞️
+- 📫 And no, you can't reach me. 📫
 - ✨ I'm special ✨
