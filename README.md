@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Ronald-0001
+- 👋 Hi, I'm @Ronald-0001. 👋
 - 🌱 I'm currently working with, 🌱
 - 🌱 c++,c#,lua,html,js,css. 🌱
 - 💞️ I Like Read Dead Redemption. 💞️
