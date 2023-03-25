@@ -3,4 +3,4 @@
 - 🌱 c++,c#,lua,html,js,css. 🌱
 - 💞️ I Like Read Dead Redemption. 💞️
 - 📫 And no, you can't reach me. 📫
-- ✨ I'm special ✨
+- ✨ Why becouse i'm special! ✨
