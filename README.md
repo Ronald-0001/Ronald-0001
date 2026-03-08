@@ -1,6 +1,20 @@
-- 👋 Hi, I'm @Ronald-0001. 👋
-- 🌱 I'm currently working with, 🌱
-- 🌱 c++,c#,java,lua,html,typescript/js,css. 🌱
-- 💞️ I Like Read Dead Redemption. 💞️
-- 📫 And no, you can't reach me. 📫
-- ✨ Why becouse i'm special! ✨
+* 👋 Hi, I'm @Ronald-0001.
+
+* ⚠️ This GitHub account is **strictly a hobby account** and is **not connected to any of my professional work** or employers.
+
+* 💻 I work with multiple languages and systems.
+  Background includes development and **cyber security**, in short — I understand how systems, exploits, and security work.
+
+* 🧪 This profile mainly contains **personal experiments, hobby projects, and learning material**.
+
+* ⚠️ **Maintenance & completeness:**
+  Projects here are **not actively maintained** and may be **incomplete, outdated, or experimental**.
+
+* ⚠️ **Use at your own risk:**
+  Any public material in this repository is used **entirely at your own discretion**.
+
+* 📫 **Contact:**
+  You cannot reach me through this GitHub account.
+  Issues, messages, or contact requests are intentionally not monitored.
+
+* ✨ This place exists purely for **personal hobby development**.
