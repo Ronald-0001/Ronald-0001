@@ -1,11 +1,11 @@
 * 👋 Hi, I'm @Ronald-0001.
 
-* ⚠️ This GitHub account is **strictly a hobby account** and is **not connected to any of my professional work** or employers.
+* ⚠️ This GitHub account is **strictly a hobby account**.
 
 * 💻 I work with multiple languages and systems.
-  Background includes development and **cyber security**, in short — I understand how systems, exploits, and security work.
+  Background includes development and **cyber security**.
 
-* 🧪 This profile mainly contains **personal experiments, hobby projects, and learning material**.
+* 🧪 This profile mainly contains **personal experiments and projects**.
 
 * ⚠️ **Maintenance & completeness:**
   Projects here are **not actively maintained** and may be **incomplete, outdated, or experimental**.
